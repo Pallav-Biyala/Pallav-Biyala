@@ -1,7 +1,7 @@
 <div align="center">
   <img src=".github/assets/header.svg" width="100%" alt="Pallav Biyala - IIT Gandhinagar">
 </div>
-
+<br>
 I'm Pallav Biyala, a CSE undergraduate at **IIT Gandhinagar**, exploring various CSE domains like Systems Design, Software Development and of course, AI/ML!
 
 I'm particularly interested in understanding how systems work under the hood — from Operating Systems and Computer Architecture to Computer Networks — and turning those concepts into practical implementations."
