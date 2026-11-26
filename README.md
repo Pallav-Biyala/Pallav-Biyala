@@ -30,7 +30,7 @@ I'm particularly interested in understanding how systems work under the hood —
 
 ## Featured Projects
 
-### [MLFQ Scheduler — xv6](https://github.com/Pallav-Biyala/xv6-mlfq-scheduler)
+### MLFQ Scheduler — xv6
 Implemented a Multi-Level Feedback Queue scheduler in the xv6 operating system.
 
 - Designed a four-level priority scheduling system.
