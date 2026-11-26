@@ -1,0 +1,69 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B1120"/>
+      <stop offset="1" stop-color="#14243B"/>
+    </linearGradient>
+
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#3B82F6"/>
+    </linearGradient>
+
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#94A3B8" stroke-opacity="0.08"/>
+    </pattern>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+
+  <!-- Decorative glow -->
+  <circle cx="1040" cy="80" r="180" fill="#2563EB" fill-opacity="0.09"/>
+  <circle cx="1040" cy="80" r="115" fill="#22D3EE" fill-opacity="0.06"/>
+
+  <!-- Circuit pattern -->
+  <g stroke="url(#accent)" stroke-width="2" stroke-opacity="0.55">
+    <path d="M850 0V65H920V110H1000"/>
+    <path d="M1200 145H1090V190H1020"/>
+    <path d="M930 320V255H1000V225"/>
+    <path d="M1120 0V35H1080"/>
+  </g>
+
+  <g fill="#22D3EE">
+    <circle cx="850" cy="65" r="4"/>
+    <circle cx="1000" cy="110" r="4"/>
+    <circle cx="1090" cy="145" r="4"/>
+    <circle cx="1020" cy="190" r="4"/>
+    <circle cx="930" cy="255" r="4"/>
+    <circle cx="1000" cy="225" r="4"/>
+  </g>
+
+  <!-- Text -->
+  <text x="75" y="105" fill="#67E8F9" font-family="monospace" font-size="17" letter-spacing="4">
+    HELLO, WORLD!
+  </text>
+
+  <text x="70" y="177" fill="#F8FAFC" font-family="Arial, sans-serif" font-size="57" font-weight="700" letter-spacing="1">
+    PALLAV BIYALA
+  </text>
+
+  <rect x="75" y="202" width="75" height="4" rx="2" fill="url(#accent)"/>
+
+  <text x="75" y="246" fill="#CBD5E1" font-family="Arial, sans-serif" font-size="20">
+    CSE Undergraduate  |  IIT Gandhinagar
+  </text>
+
+  <text x="75" y="280" fill="#94A3B8" font-family="monospace" font-size="14" letter-spacing="1">
+    SYSTEMS  •  SOFTWARE  •  AI / ML
+  </text>
+
+  <!-- Right-side decorative label -->
+  <text x="1080" y="285" fill="#64748B" font-family="monospace" font-size="12" text-anchor="middle">
+    BUILD / LEARN / REPEAT
+  </text>
+
+  <!-- Accent border -->
+  <rect x="1" y="1" width="1198" height="318" rx="19" stroke="#38BDF8" stroke-opacity="0.25"/>
+</svg>
