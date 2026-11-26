@@ -1,6 +1,6 @@
-# Hello folks! Welcome to My World
-
-### Pallav Biyala | Computer Science and Engineering Undergraduate | IIT Gandhinagar
+<div align="center">
+  <img src=".github/assets/header.svg" width="100%" alt="Pallav Biyala - IIT Gandhinagar">
+</div>
 
 I'm a CSE undergraduate at **IIT Gandhinagar**, exploring various CSE domains like Systems Design, Software Development and of course, AI/ML!
 
