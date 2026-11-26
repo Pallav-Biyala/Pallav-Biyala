@@ -11,7 +11,7 @@ I'm particularly interested in understanding how systems work under the hood —
 ## What I'm Exploring
 
 - **Artificial Intelligence & Machine Learning** — Exploring how models learn.
-- **Systems Programming** — operating systems, computer architecture, and low-level programming.
+- **Systems Programming** — operating systems,computer architecture, networking, and low-level programming.
 - **Software Development** — building applications that solve practical problems.
 
 ---
@@ -20,7 +20,7 @@ I'm particularly interested in understanding how systems work under the hood —
 
 **Languages**
 
-`C` · `C++` · `Python` · `HTML` · `CSS` ·`SQL`
+`C` · `C++` · `Python` · `HTML` · `CSS` · `JavaScript` ·`SQL`
 
 **Development**
 
